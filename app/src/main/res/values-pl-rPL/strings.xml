@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">lab2</string>
+    <string name="moj_tekst">Witaj swiecie!</string>
+    <string name="moje_przywitanie">Hej uzytkowniku!</string>
+    <string name="Opis_pogody">Dziś świeci słońce</string>
+    <string name="moje_sniadanie">Dzis zjadlem jajecznice</string>
+    <string name="moje_samopoczucie">Dziś mój humor jest bardzo na plus</string>
+    <string name="moje_ubrania">Dziś mam na sobie dres oraz bluzę z długim rękawem</string>
+</resources>
